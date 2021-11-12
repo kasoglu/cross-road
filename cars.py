@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-CARS = ["ambulance.gif", "car.gif", "greentruck.gif", "minibus.gif", "taxi.gif", "whitetruck.gif", "redcar.gif"]
+CARS = ["./photos/ambulance.gif", "./photos/car.gif", "./photos/greentruck.gif", "./photos/minibus.gif", "./photos/taxi.gif", "./photos/whitetruck.gif", "./photos/redcar.gif"]
 STARTING_MOVE_DISTANCE = 5
 MOVE_INCREMENT = 5
 
